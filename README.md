@@ -8,8 +8,9 @@ El proyecto contiene las siguientes clases principales:
 
 ## Codigo Funcional
 
+![Captura-de-pantalla-2024-07-30-144031.png](https://i.postimg.cc/0jnK3rTX/Captura-de-pantalla-2024-07-30-144031.png)]
 
-
+![Captura-de-pantalla-2024-07-30-144046.png](https://i.postimg.cc/tCRx6t6K/Captura-de-pantalla-2024-07-30-144046.png)]
 
 ### Registro de Equipos y Jugadores
 
