@@ -9,6 +9,8 @@ El proyecto contiene las siguientes clases principales:
 ## Codigo Funcional
 
 
+
+
 ### Registro de Equipos y Jugadores
 
 Se permite el registro de equipos, y para cada equipo se pueden agregar varios jugadores. Los jugadores se caracterizan por su nombre, edad, género y posición en el campo.
@@ -21,6 +23,6 @@ Se pueden programar partidos entre los equipos registrados y registrar los resul
 
 Después de registrar los resultados de un partido, se actualizan las estadísticas del campeonato, tanto la tabla de posiciones como las estadísticas individuales de los jugadores.
 
-## Ejecución del Proyecto
+
 
 
